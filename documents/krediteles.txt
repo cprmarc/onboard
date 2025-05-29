@@ -1,0 +1,186 @@
+Összefoglalás
+A felhasználók különböző eszközökkel rendelkeznek a hirdetéseik hatékonyabb értékesítése érdekében. Egyrészt a kreditek segítségével módosítható a hirdetés pozíciója lásd: 
+Kreditek (kiemelés) FS. Másrészt a listában való kiemelés érdekében különböző szolgáltatásokat vásárolhatnak a felhasználók. A közvetítők és magánszemélyek is igénybe vehetik, de eltérő módon.
+
+Kulcsfunkcionalitás
+Kreditek
+
+Címke
+
+Keret
+
+Egyedi megnevezés
+
+Kiemelési szolgáltatás vásárlása közvetítőknek
+Figma: Rendeléskezelő 
+
+A közvetítők a kiemelési szolgáltatásokat kreditért vásárolhatják meg a saját hirdetések listában a Kiemelés gombra kattintva megnyíló dialóguson keresztül. A dialógus tartalma:
+
+Cím: Kiemelési szolgáltatások
+
+Alcím: Tűnj ki a tömegből kiemelési szolgáltatásainkkal! 
+
+Szöveg: Ingatlanhirdetésedre kiemelési szolgáltatásainkkal hívhatod fel az ingatlankeresők figyelmét. A kiemelésekért kredittel tudsz fizetni, amit naponta vonunk le az egyenlegedből.  
+
+Accordionok: az egyes kiemelési lehetőségek és a hozzájuk tartozó leírások:
+
+Előre sorolás kredittel - Helyezd ingatlanhirdetésed a találati lista élére kreditekkel, hogy még több ingatlankeresőt elérj! 
+
+Címke - ki/bekapcsoló gombbal: Árcsökkenés? Panorámás ingatlan? Írd ki színes címkébe, hiszen nemcsak figyelemfelkeltő, hanem hirdetésed több keresés eredményeként is megjelenhet. 
+
+Egyedi elnevezés - ki/bekapcsoló gombbal: Mitől különleges az ingatlanod? Már a találati listában megjelenő egysoros szöveget is személyre szabhatod.
+
+Keret - ki/bekapcsoló gombbal: A színes keretek magukra vonják a látogatók figyelmét a találati listában. Válassz 4 vidám szín közül!
+
+A kiemelési szolgáltatásokat egy vagy akár több hirdetésre is megvásárolhatják egyszerre, azaz elérhető a csoportos műveletek között is. Lásd 
+Saját hirdetések - Iroda és referens FS | Csoportos kiemelés (kreditelés) 
+
+Kredit vásárlása
+A részletes bemutatást lásd: 
+Kreditek (kiemelés) FS 
+
+Címke vásárlása
+Figma: Rendeléskezelő 
+
+A címkék esetében megkülönböztetünk elsődleges és további címkéket. Az elsődleges címke kerül a hirdetési kártyára, vagyis ez fog látszódni a felhasználóknak. További címkét is vásárolhat a felhasználó, ugyanis a keresésnél ezekre a címkékre is biztosítunk találatot. A További címkékből akár több címke is kijelölhető. A további címke blokkban, az a címke, amit elsődlegesnek választott, nem fog látszódni. 
+
+A következő címkék lesznek elérhetők: 
+
+Sürgős, Árcsökkenés, Új ajánlat, Csak irodánknál, Panorámás, Jó befektetés, Alkalmi vétel, Kertkapcsolatos, Azonnal költözhető, Bútorozott, Kisállattal költözhető, Alacsony rezsi, Felújított, CSOK (igényelhető), Energia: A+++, Energia: A++, Energia: A+, Energia: A, Energia: B, Tulajdonostól (csak magánszemély)(terv, nem éles)
+
+A címke értéke: 40 kredit/hirdetés
+
+A címkék négyféle/három féle háttérszínben érhetők el, mely célja, hogy a fotón is kiválasztható legyen, ami jól mutat és eltérhessenek egymástól a címkék. A háttérszín választása kötelező, a következő színek állnak rendelkezésre:
+
+lila (alapértelmezett)
+
+pink
+
+lime
+
+brick (kivezetésre vár)
+
+A vásárlásnál a címkéknél kötelezően meg kell adni a megjelenés kezdő és végdátumát, mely legkorábban a mai nap és maximum 3 hónap lehet. 
+
+Érvényessége:
+
+egy adott nap pl.: 2023.10.22.  (a tól és az ig dátum megegyezik) 
+
+nem 24 órára veszi, hanem adott napra, vagyis, ha mára kéri és dél van, akkor éjfélig lesz a keret a hirdetésen.
+
+ha a jövőben van, akkor 0 órakor indul és aznap éjfélig tart
+
+ha a mai napot választja ki, azonnal indul és aznap éjfélig tart, vagyis, ha délben jelöli ki, akkor csak fél napra lesz érvényes
+
+vagy időszak pl.: 2023.10.22-2023.10.27.
+
+ha a kezdő dátum a jövőben van, akkor 0 órakor indul és aznap éjfélig tart
+
+ha a kezdő dátumnak a mai napot választja ki, azonnal indul és aznap éjfélig tart, vagyis, ha délben jelöli ki, akkor csak fél napra lesz érvényes
+
+A címke vásárlásnál attól függően, hogy egyedi vagy csoportos művelettel végezzük a vásárlást az eredeti hirdetés vagy egy minta ingatlankártyáján látható a címke.
+
+A beállítások alatt összesítés látható. Az összesítés tartalmazza a címkék darabszámát, a kiemelés napjainak a számát, valamint a kijelölt hirdetések számát, és az elköltendő kreditek számát. 
+
+“Címke törlése” link megjelenik, ha a felhasználó beállítja a címkének a dátumát, a színét és választ legalább egy címkét. Ha kiválasztjuk a címke törlését és utána a beállított időszak és a kiválasztott címkék törlésre kerülnek, valamint a szín visszaáll zöldre. 
+
+Amennyiben a felhasználó nem szeretne más kiemelési szolgáltatást megvásárolni az oldal alján lévő “Beállítom” gombra alkalmazhatja a beállított címke megvásárlását. 
+
+Ha a kiemelési időszakban a felhasználó kikapcsolja a kiemelést, akkor felfüggesztjük és ha ugyanazon a napon visszateszi, akkor továbbra is érvényes lesz kreditlevonás nélkül. 
+
+Egyedi elnevezés vásárlása (nem éles, terv)
+Figma: Rendeléskezelő 
+
+A hirdetés kártyákon jelenleg a SEO támogatása miatt egy generált címet jelenítünk meg (Pl: Eladó ház Miskolc, Belváros) Ezt a címet van lehetősége lecserélni a felhasználónak kreditért. Az egyedi elnevezés beviteli mezőbe előtöltjük a hirdetés feladása során opcionálisan megadható leírás blokkban található cím mezőt. A felhasználónak lehetősége van ezt a címet módosítani. Ha egy hirdetésen van egyedi cím vásárolva és közben módosítja a hirdetést és megváltoztatja az egyedi elnevezést, akkor azt nem frissítjük és ez fordítva is igaz, a kiemelés során megadott új egyedi elnevezés, nem kerül vissza a hirdetéshez.
+
+Az egyedi elnevezés maximálisan hossza 100 karakter. A szöveg gépelésénél látszik a felhasznált karakterszám. Ne engedjük csupa nagybetűt írni. Ha a felhasználó így adta volna meg a hirdetésnél vagy XML áttöltésnél, akkor is módosíttassuk ezt vele! 
+
+Az egyedi elnevezés díja: napi 40 kredit/hirdetés
+
+A vásárlásnál az egyedi megnevezésnél kötelezően meg kell adni a megjelenés kezdő és végdátumát, mely legkorábban a mai nap és maximum 3 hónap lehet. 
+
+Érvényessége:
+
+egy adott nap pl.: 2023.10.22.  (a tól és az ig dátum megegyezik) 
+
+nem 24 órára veszi, hanem adott napra, vagyis, ha mára kéri és dél van, akkor éjfélig lesz a keret a hirdetésen.
+
+ha a jövőben van, akkor 0 órakor indul és aznap éjfélig tart
+
+ha a mai napot választja ki, azonnal indul és aznap éjfélig tart, vagyis, ha délben jelöli ki, akkor csak fél napra lesz érvényes
+
+vagy időszak pl.: 2023.10.22-2023.10.27.
+
+ha a kezdő dátum a jövőben van, akkor 0 órakor indul és aznap éjfélig tart
+
+ha a kezdő dátumnak a mai napot választja ki, azonnal indul és aznap éjfélig tart, vagyis, ha délben jelöli ki, akkor csak fél napra lesz érvényes
+
+Az egyedi elnevezés vásárlásnál attól függően, hogy egyedi vagy csoportos művelettel végezzük a vásárlást az eredeti hirdetésen látható az egyedi cím vagy egy minta ingatlankártyán az “Egyedi elnevezés” felirat. .
+
+A beállítások alatt összesítés látható. Az összesítés tartalmazza a kiemelés napjainak a számát, valamint a kijelölt hirdetések számát, és az elköltendő kreditek számát. 
+
+Amennyiben a felhasználó nem szeretne más kiemelési szolgáltatást megvásárolni az oldal alján lévő “Beállítom” gombra alkalmazhatja a beállított címke megvásárlását. 
+
+Ha a kiemelési időszakban a felhasználó kikapcsolja a kiemelést, akkor felfüggesztjük és ha ugyanazon a napon visszateszi, akkor továbbra is érvényes lesz kreditlevonás nélkül. 
+
+Keret vásárlása (nem éles, terv)
+Figma: Rendeléskezelő  
+
+A hirdetés kártyáján a fénykép körül megjelenő keret megvásárlása során a keret négyféle színben érhető el. A szín választása kötelező, a következő színek állnak rendelkezésre:
+
+narancs (alapértelmezett)
+
+rózsaszín
+
+kék
+
+lila
+
+A vásárlásnál a keretnél kötelezően meg kell adni a megjelenés kezdő és végdátumát, mely legkorábban a mai nap és maximum 3 hónap lehet. 
+
+Érvényessége:
+
+egy adott nap pl.: 2023.10.22.  (a tól és az ig dátum megegyezik) 
+
+nem 24 órára veszi, hanem adott napra, vagyis, ha mára kéri és dél van, akkor éjfélig lesz a keret a hirdetésen.
+
+ha a jövőben van, akkor 0 órakor indul és aznap éjfélig tart
+
+ha a mai napot választja ki, azonnal indul és aznap éjfélig tart, vagyis, ha délben jelöli ki, akkor csak fél napra lesz érvényes
+
+vagy időszak pl.: 2023.10.22-2023.10.27.
+
+ha a kezdő dátum a jövőben van, akkor 0 órakor indul és aznap éjfélig tart
+
+ha a kezdő dátumnak a mai napot választja ki, azonnal indul és aznap éjfélig tart, vagyis, ha délben jelöli ki, akkor csak fél napra lesz érvényes
+
+A kredit értéke: 40 kredit/hirdetés
+
+A keret vásárlásnál attól függően, hogy egyedi vagy csoportos művelettel végezzük a vásárlást az eredeti hirdetés vagy egy minta ingatlankártyáján látható a keret.
+
+A beállítások alatt összesítés látható. Az összesítés tartalmazza a keret darabszámát, a kiemelés napjainak a számát, valamint a kijelölt hirdetések számát, és az elköltendő kreditek számát. 
+
+Amennyiben a felhasználó nem szeretne más kiemelési szolgáltatást megvásárolni az oldal alján lévő “Beállítom” gombra alkalmazhatja a beállított címke megvásárlását. 
+
+Ha a kiemelési időszakban a felhasználó kikapcsolja a kiemelést, akkor felfüggesztjük és ha ugyanazon a napon visszateszi, akkor továbbra is érvényes lesz kreditlevonás nélkül. 
+
+“Keret törlése” link megjelenik, ha a felhasználó beállítja a kiemelés dátumát, a színét. Ha kiválasztja a keret törlését a beállított időszak törlésre kerül, valamint a szín visszaáll az alapértelmezettre. 
+
+Mérés
+A BI reportok számára elérhetővé kell tenni az alapadatokat: 
+
+mely termékből 
+
+milyen felhasználó 
+
+milyen felhasználói csoport
+
+milyen forrásból (kredit vagy pénz) 
+
+mennyiért
+
+mikor 
+
+mennyit vásárolt
+
+Kimutatható kell legyen, hogy mennyi keret termék került megvásárlásra melyik konkrét felhasználók és felhasználó csoportok által.
