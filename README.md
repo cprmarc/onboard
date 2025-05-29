@@ -1,2 +1,2 @@
-# onboard
-zonboardsession
+# ingatlan-chatbot-demo
+Chatbot ingatlanos tudásanyaghoz
